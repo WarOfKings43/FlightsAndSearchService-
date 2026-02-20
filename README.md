@@ -5,7 +5,7 @@
 - Execute `npm install` on the same path as of your root directory of the development project
 -Create a `.env` file in the root directory and add the following environment variable
    - `PORT=3000`
-- Inside the `serc/config` folder create a ne wfile `config.json` andthen add the following piece of json
+- Inside the `src/config` folder create a newfile `config.json` andthen add the following piece of json
 
 
 ```
